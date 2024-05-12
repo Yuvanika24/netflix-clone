@@ -1,7 +1,7 @@
-<h2>Firebase Authentication:</h2>
-![image](https://github.com/Yuvanika24/netflix-clone/assets/85669318/6fd4bb9c-4772-4530-acf3-6840ab292f54)
-<br>
-<h2>Stripe Products for payment integration</h2>
-![image](https://github.com/Yuvanika24/netflix-clone/assets/85669318/9eb053d3-b1ee-490d-a7ea-d9282de89164)
+Firebase Authentication:
+![image](https://github.com/Yuvanika24/netflix-clone/assets/85669318/80561155-e033-48a2-99de-a1c41cd0b1ea)
 
+<br>
+Stripe Products for payment integration
+![image](https://github.com/Yuvanika24/netflix-clone/assets/85669318/efefe30f-f5db-4837-aeed-1d4ab1b0b368)
 
